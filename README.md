@@ -13,3 +13,6 @@ Este repositorio contiene el trabajo práctico de gestión colaborativa. Se simu
 - `/scripts`: Contiene el código fuente del análisis.
 - `/datos`: Archivos de entrada para el script.
 - `/resultados`: Productos generados por el análisis.
+
+## Se eligio desarrollar el siguiente escenario:
+ Escenario B – Análisis de Ventas de una Pequeña Empresa, sugerido por el archivo de instrucciones.
