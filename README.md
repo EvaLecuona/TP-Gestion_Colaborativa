@@ -16,3 +16,12 @@ Este repositorio contiene el trabajo práctico de gestión colaborativa. Se simu
 
 ## Se eligio desarrollar el siguiente escenario:
  Escenario B – Análisis de Ventas de una Pequeña Empresa, sugerido por el archivo de instrucciones.
+
+## Instrucciones para Ejecutar el Script:
+Para replicar el análisis, siga estos pasos:
+1. Asegurarse de tener instaladas las librerías `pandas` y `matplotlib`.
+2. Clonar el repositorio en su entorno local o Google Colab.
+3. Ejecutar el script principal desde la raíz del proyecto:
+   ```bash
+   python scripts/analisis_datos.py
+   ```
