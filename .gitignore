@@ -1,0 +1,13 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de notebooks (Colab/Jupyter)
+.ipynb_checkpoints/
+
+# Archivos de registro y logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
